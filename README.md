@@ -31,8 +31,7 @@ Hi, I'm Divyansh Kulshreshtha, a passionate full stack web developer with a keen
 
 
 
-  <img align="right" alt="GIF" src="https://github.com/divyanshkul/divyanshkul/blob/master/
-  code.gif?raw=true" width="300" height="220" />
+  <img align="right" alt="GIF" src="https://github.com/divyanshkul/divyanshkul/blob/main/code.gif?raw=true" width="320" height="220" />
   
 
 
